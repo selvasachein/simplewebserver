@@ -24,7 +24,7 @@ Testing the webserver.
 ```
 from http.server import HTTPServer, BaseHTTPRequestHandler
 content = """
-html>
+<html>
 	<title> Top five Revenue Generating Software Companies </title>
 	<body>
 		<table border="2" cellspacing="7" cellpadding="6">
@@ -40,8 +40,8 @@ html>
 				<td>65 Billion</td>
 			</tr>
 			<tr>        
-                <td>2</td>		
-                <td>Oracle</td>
+                                <td>2</td>		
+                                <td>Oracle</td>
 				<td>29.6 Billion</td>
 			</tr>
 			<tr>
