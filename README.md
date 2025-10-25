@@ -2,7 +2,7 @@
 ## Date:
 
 ## AIM:
-To develop a simple webserver to serve html pages and display the Device Specifications of your Laptop.
+To develop a simple webserver to serve html pages and display the Windows Specifications of your Laptop.
 
 ## DESIGN STEPS:
 ### Step 1: 
