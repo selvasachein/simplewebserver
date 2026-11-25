@@ -38,7 +38,8 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 ## PROGRAM:
 
 
-## OUTPUT:https://www.linkedin.com/in/j-praveen-031b11428?utm_source=share_via&utm_content=profile&utm_medium=member_android
+## OUTPUT:
+<img width="1912" height="1022" alt="output_screenshot" src="https://github.com/user-attachments/assets/07a605e7-6a58-4248-a781-7e06786429a7" />
 
 
 ## RESULT:
